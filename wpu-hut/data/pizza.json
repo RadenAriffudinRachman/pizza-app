@@ -1,0 +1,19 @@
+{
+    "menu": [
+        {
+            "Kategori": "pizza",
+            "nama": "pizza sedap",
+            "deskripsi": "Irisan sosis sapi, ditambah bumbu merica",
+            "harga": 50000,
+            "gambar": "mantul.jpg"
+        },
+        {
+            "Kategori": "nasi",
+            "nama": "pizza mantul",
+            "deskripsi": "Irisan sosis ayam, ditambah bumbu merica",
+            "harga": 45000,
+            "gambar": "sadap.png"
+        }
+    ]
+
+}
