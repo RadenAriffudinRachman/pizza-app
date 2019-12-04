@@ -1,0 +1,31 @@
+[
+    {
+        "nama": "Raden Ariffudin Rachman",
+        "umur": "20",
+        "nrp": "173040010",
+        "lulus": "false",
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "Pembimbing" : {
+            "Pemmbimbing 1": "Doddy Ferdiansyah",
+            "Pemmbimbing 2": "Sandika Galih"
+        }
+    },
+
+    {
+        "nama": "Raden Ariffudin Rachman",
+        "umur": "20",
+        "nrp": "173040010",
+        "lulus": "false",
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "Pembimbing" : {
+            "Pemmbimbing 1": "Doddy Ferdiansyah",
+            "Pemmbimbing 2": "Sandika Galih"
+        }
+    }
+]
